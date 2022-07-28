@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kip-too
-- 👀 I’m interested in java programming web and android development and node js.
-- 🌱 I’m currently learning java web programming.
-- 💞️ I’m looking to collaborate on any java backend projects.
+- 👀 I’m interested in ios/android development.
+- 🌱 I’m currently learning flutter multiplatform application development.
+- 💞️ I’m looking to collaborate on any flutter projects.
 - 📫 How to reach me .
 - email:hoseakiptoo201@gmail.com
 -instagram@kurgat_kiptoo
