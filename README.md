@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kip-too
+- 👋 Hi, I’m kurgat kiptoo
 - 👀 I’m interested in ios/android development.
 - 🌱 I’m currently learning flutter multiplatform application development.
 - 💞️ I’m looking to collaborate on any flutter projects.
