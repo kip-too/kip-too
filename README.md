@@ -1,8 +1,10 @@
 - 👋 Hi, I’m kurgat kiptoo
 - 👀 I’m interested in ios/android development.
-- 🌱 I’m currently learning flutter multiplatform application development.
-- 💞️ I’m looking to collaborate on any flutter projects.
+- 🌱 I’m currently learning flutter multiplatform application development and Java Enterprise stack.
+- 💞️ I’m looking to collaborate on any flutter and Springboot projects.
 - 📫 How to reach me .
+##skills##
+
 - email:hoseakiptoo201@gmail.com
 -instagram@kurgat_kiptoo
 Twitter@Kkurgat_kiptoo
